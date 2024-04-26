@@ -1,6 +1,6 @@
 # 123.hp.com/setup
 
-[![123.hp.com/setup](get-start-button.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123.hp.com/setup](get-start-button.png)](https://hp.printredir.com)
 
 To go through the HP printer setup by using the Wi-Fi Direct method, visit [123.hp.com/setup](https://https123hp-comsetup.github.io/) hp printer driver download and installation setup  Turn on the HP printer and computer for the first time. Go to the 123 hp com setup now.
 
